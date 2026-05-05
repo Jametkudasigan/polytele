@@ -26,7 +26,7 @@ Bot automation untuk trading market **BTC Up/Down 5 menit** di Polymarket dengan
 git clone https://github.com/Jametkudasigan/polytele.git
 ```
 ```
-cd polymarket-btc-bot
+cd polytele
 ```
 ```
 python -m venv venv
